@@ -4,7 +4,7 @@
   "description": "Template Name: iPortfolio\r Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/\r Author: BootstrapMade.com\r License: https://bootstrapmade.com/license/",
   "main": "main.js",
   "scripts": {
-    "start": "node assets/js/hello.js,node assets/js/main.js",
+    "start": "node assets/js/hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
