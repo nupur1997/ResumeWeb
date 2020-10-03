@@ -1,0 +1,20 @@
+{
+  "name": "iportfolio",
+  "version": "1.0.0",
+  "description": "Template Name: iPortfolio\r Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/\r Author: BootstrapMade.com\r License: https://bootstrapmade.com/license/",
+  "main": "main.js",
+  "scripts": {
+    "start": "node assets/js/hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nupur1997/ResumeWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nupur1997/ResumeWeb/issues"
+  },
+  "homepage": "https://github.com/nupur1997/ResumeWeb#readme"
+}
